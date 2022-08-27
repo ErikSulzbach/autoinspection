@@ -1,0 +1,14 @@
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.exe
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.deps.json
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.runtimeconfig.json
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.runtimeconfig.dev.json
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.dll
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\bin\Debug\netcoreapp3.1\Autoinspection.pdb
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.csproj.AssemblyReference.cache
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.AssemblyInfoInputs.cache
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.AssemblyInfo.cs
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.csproj.CoreCompileInputs.cache
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.dll
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.pdb
+C:\Workspace\VisualStudio2019-Projekte\Autoinspection\Autoinspection\obj\Debug\netcoreapp3.1\Autoinspection.genruntimeconfig.cache
